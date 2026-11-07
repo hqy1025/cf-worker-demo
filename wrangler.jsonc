@@ -1,5 +1,11 @@
 {
   "name": "cf-worker-demo",
   "main": "index.js",
-  "compatibility_date": "2025-05-15"
+  "compatibility_date": "2025-05-15",
+  "kv_namespaces": [
+    {
+      "binding": "WLOC",
+      "id": "这里粘贴你刚才复制的KV Namespace ID"
+    }
+  ]
 }
