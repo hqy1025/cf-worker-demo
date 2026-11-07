@@ -1,7 +1,5 @@
 {
-  "$schema": "node_modules/wrangler/config-schema.json",
   "name": "cf-worker-demo",
   "main": "index.js",
-  "compatibility_date": "2026-11-07",
-  "workers_dev": true
+  "compatibility_date": "2025-05-15"
 }
